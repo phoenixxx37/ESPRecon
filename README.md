@@ -39,7 +39,7 @@ The project is designed for learning, experimentation, wireless analysis and emb
 # Features
 
 ## WiFi Module
-
+![scansta](screenshots/Безымянный.png)
 Current features:
 
 - WiFi network scanner
@@ -55,7 +55,7 @@ Planned features:
 - Advanced WiFi scanning tools
 - Beacon testing features
 - Evil Portal (for authorized security testing and education)
-
+![spectrum](screenshots/Безымянный1.png)
 ---
 
 ## Sub-GHz Module
